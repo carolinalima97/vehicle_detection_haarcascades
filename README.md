@@ -29,6 +29,7 @@ For more information, please see:
  * http://lars.mec.ua.pt/public/Media/ResearchDevelopmentProjects/HaarFeatures_RoadFilms/HaarFeaturesTests/CarsRear/
  * http://lars.mec.ua.pt/public/Media/ResearchDevelopmentProjects/HaarFeatures_RoadFilms/HaarFeaturesTests/
 
+ * https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwj38NmJu7DlAhW4HbkGHaT1BtUQFjACegQICRAB&url=https%3A%2F%2Fwww.mathworks.com%2Fhelp%2Fvision%2Fug%2Ftrain-a-cascade-object-detector.html&usg=AOvVaw1D9u_cjqYIYqfhhfnOQYFc
 For Windows users
 -----------------
 * Check if your OpenCV is installed at: C:\OpenCV2.4.10
